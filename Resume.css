@@ -86,7 +86,7 @@ body {
 .content_area1{
     border-radius: 57px 1px 57px 0px;
     box-shadow: 0px 0px 3px 3px none;
-    height: 720px;
+    height: 751px;
     margin: auto;
     margin-bottom: 13%;
     background: linear-gradient(85deg, #75d475, #f7f7ca);
@@ -111,13 +111,13 @@ body {
 .Skills img{
     border-radius: 57px 1px 57px 0px;
     height: 130px;
-}
+ }
 
 /* work */
 .content_area3{
     border-radius: 57px 1px 57px 0px;
     box-shadow: 0px 0px 3px 3px none;
-    height: 430px;
+    height: 450px;
     margin: auto;
     margin-bottom: 13%;
     background: linear-gradient(85deg, #75d475, #f7f7ca);
@@ -125,7 +125,7 @@ body {
   .innerbox{
     border-radius: 57px 1px 57px 0px;
     box-shadow: 0px 0px 3px 3px none;
-    height: 350px;
+    height: 375px;
     width: 50%;
     margin: auto;
     margin-bottom: 13%;
