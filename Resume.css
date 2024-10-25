@@ -117,7 +117,7 @@ body {
 .content_area3{
     border-radius: 57px 1px 57px 0px;
     box-shadow: 0px 0px 3px 3px none;
-    height: 450px;
+    height: 430px;
     margin: auto;
     margin-bottom: 13%;
     background: linear-gradient(85deg, #75d475, #f7f7ca);
@@ -125,7 +125,7 @@ body {
   .innerbox{
     border-radius: 57px 1px 57px 0px;
     box-shadow: 0px 0px 3px 3px none;
-    height: 400px;
+    height: 350px;
     width: 50%;
     margin: auto;
     margin-bottom: 13%;
